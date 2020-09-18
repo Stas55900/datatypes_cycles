@@ -1,8 +1,6 @@
+num = int(input('Введите число: '))
 
-namer = int(input('Введите число: '))
-
-while namer != 0:
-
-    print('ваш результат', namer2)
+while num != 0:
+    print('ваш результат', num)
     break
 
